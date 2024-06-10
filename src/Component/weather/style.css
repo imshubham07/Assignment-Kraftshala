@@ -22,7 +22,7 @@
 
 body {
   background-color: #f5f5f5;
-  background-image: url(src/Component/weather/bg-e.jpg);
+  background-image: url("https://i.pinimg.com/236x/06/47/d5/0647d5f6efbfa56eeeb3a9d7bd9c7748.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
