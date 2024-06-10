@@ -20,8 +20,8 @@ You can view a live demo of the application [here](https://kraftshala-frontend-i
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/imshubham07/Kraftshala_Frontend-Intern_Shubham-Kumar-Dubey.git
-    cd Kraftshala_Frontend-Intern_Shubham-Kumar-Dubey
+    git clone https://github.com/imshubham07/Assignment-Kraftshala.git
+    cd Assignment-Kraftshala
     ```
 
 2. **Install dependencies**:
