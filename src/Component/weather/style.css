@@ -22,7 +22,7 @@
 
 body {
   background-color: #f5f5f5;
-  background-image: url("https://img.freepik.com/free-photo/blue-sky-clouds-with-sun-rays_23-2148825008.jpg?w=1380&t=st=1718009452~exp=1718010052~hmac=87b9f641a954d48eaa64000adadc5c3cbb6a745dc0ffaab79acb73e1c1c6a84d");
+  background-image: url(src/Component/weather/bg-e.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
